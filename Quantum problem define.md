@@ -111,4 +111,4 @@ These inputs feed directly into the VQE pipeline in Phase 2.
 
 ---
 
-*Next: [Phase 2 — VQE Pipeline Design](vqe_pipeline_design.md)*
+*Next: [Phase 2 — VQE Pipeline Design](VQE_pipeline_design.md)*
