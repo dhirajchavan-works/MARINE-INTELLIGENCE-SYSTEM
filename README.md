@@ -1,6 +1,6 @@
-# Marine Intelligence System — Task 2
+# Marine Intelligence System 
 ## Quantum Parameter Engine + State Mapping
-**Dhiraj Chavan | Integration Task 2**
+**Dhiraj Chavan | **
 
 ---
 
