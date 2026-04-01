@@ -1,4 +1,4 @@
-# Phase 2 — VQE Pipeline Design (Real, Not Theory)
+# Phase 2 — VQE Pipeline Design 
 **Output file: `vqe_pipeline_design.md`**
 
 ---
